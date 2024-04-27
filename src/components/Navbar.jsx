@@ -23,6 +23,10 @@ function Navbar() {
         <Link to="/remote">
           <li>Remote</li>
         </Link>
+
+        <Link to="/remote">
+          <li>New</li>
+        </Link>
       </ul>
     </div>
   );
